@@ -23,9 +23,9 @@ export default function Home() {
       <div className="container">
         <header>
           <img src="https://nyimpen.vercel.app/component/logoku.png" alt="Profile Picture" className="profile-pic" />
-          <h1 className="nama">balxzzy</h1>
+          <h1 className="nama">Muhammad Ramdhan Azizi</h1>
           <p className="lokasi">
-            <i className="fas fa-globe-asia"></i> Kalimantan Timur, Samarinda
+            <i className="fas fa-globe-asia"></i> Bogor, Jonggol
           </p>
           <p className="bio">”destroyer.”</p>
         </header>
@@ -49,16 +49,16 @@ export default function Home() {
         </section>
 
         <div className="social-icons">
-          <a href="https://github.com/balxz" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://github.com/Azizi123haha" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-github"></i>
           </a>
-          <a href="https://wa.me/6281276400345?text=hi+balxzzy" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://wa.me/6285778037775?text=hi+Azizi" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-whatsapp"></i>
           </a>
-          <a href="https://instagram.com/iqstore78" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://instagram.com/aziziazzasgwy_" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fab fa-instagram"></i>
           </a>
-          <a href="https://api.balxzzy.xyz" target="_blank" className="social-link" rel="noopener noreferrer">
+          <a href="https://wa.me/6285778037775?text=hi+Azizi" target="_blank" className="social-link" rel="noopener noreferrer">
             <i className="fas fa-arrow-up-right-from-square"></i>
           </a>
         </div>
