@@ -27,7 +27,7 @@ export default function Home() {
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Bogor, Jonggol
           </p>
-          <p className="bio">”destroyer.”</p>
+          <p className="bio">”Sed contra, beatitudo non est finis, sed modus vivendi.  Frui omne iter te fac et crea pulchra memorias.”</p>
         </header>
 
         <section className="spotify-section">
