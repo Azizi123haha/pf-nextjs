@@ -22,7 +22,7 @@ export default function Home() {
       </Head>
       <div className="container">
         <header>
-          <img src="https://nyimpen.vercel.app/component/logoku.png" alt="Profile Picture" className="profile-pic" />
+          <img src="https://filezone.my.id/file/7ae32b22545316c55c20" alt="Profile Picture" className="profile-pic" />
           <h1 className="nama">Muhammad Ramdhan Azizi</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Bogor, Jonggol
