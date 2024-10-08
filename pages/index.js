@@ -15,14 +15,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>balxzzy | Spotify Music</title>
+        <title>Azizi | Spotify Music</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
         <link rel="stylesheet" href="https://nyimpen.vercel.app/component/spotfy.css" />
       </Head>
       <div className="container">
         <header>
-          <img src="https://filezone.my.id/file/7ae32b22545316c55c20" alt="Profile Picture" className="profile-pic" />
+          <img src="https://filezone.my.id/file/064fd84ba0209c96368e" alt="Profile Picture" className="profile-pic" />
           <h1 className="nama">Muhammad Ramdhan Azizi</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Bogor, Jonggol
