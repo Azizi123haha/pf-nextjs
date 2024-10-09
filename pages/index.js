@@ -22,7 +22,7 @@ export default function Home() {
       </Head>
       <div className="container">
         <header>
-          <img src="https://filezone.my.id/file/064fd84ba0209c96368e" alt="Profile Picture" className="profile-pic" />
+          <img src="https://tmpfiles.org/dl/14117931/1728398406399.jpg" alt="Profile Picture" className="profile-pic" />
           <h1 className="nama">Muhammad Ramdhan Azizi</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Bogor, Jonggol
