@@ -39,7 +39,7 @@ export default function Home() {
               </div>
             )}
             <iframe
-              src="https://open.spotify.com/embed/playlist/6E0ZFnk5ixqtyPMqL0MKlQ"
+              src="https://open.spotify.com/playlist/4Yz659ah5UNysVKpGa417s"
               frameBorder="0"
               allowTransparency="true"
               allow="encrypted-media"
